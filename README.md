@@ -9,7 +9,8 @@
 4. `npm install`
 5. `npm install semantic-ui-react semantic-ui-css`
 6. `npm i axios`
-
+7. `npm start`
+8. `http://localhost:3000/create`
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
