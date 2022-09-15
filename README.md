@@ -8,6 +8,8 @@
 3. `cd react-crud`
 4. `npm install`
 5. `npm install semantic-ui-react semantic-ui-css`
+6. `npm i axios`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
