@@ -1,7 +1,7 @@
 # CRUD made using React | Axios | MockAPI
 ![create_page](https://user-images.githubusercontent.com/61367434/190511744-d3bbacbd-47b0-4fca-8130-058c9d28a114.JPG)
 
-#Local Installation
+# Local Installation
 
 1. Install <a href="https://nodejs.org" target="_blank">Node.js</a> 
 2. `git clone https://github.com/leonardolucusi/react-crud.git`
